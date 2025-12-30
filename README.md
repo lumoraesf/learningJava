@@ -10,15 +10,29 @@ This repository contains multiple Java projects developed during my studies.
 
 
 
-\- \*\*average-sales\*\*  
+\- \*\*average-sales\*\*
 
-&nbsp; Calculates average sales based on input data.
+  Calculates average sales based on input data.
 
 
 
-\- \*\*io-final\*\*  
+\- \*\*io-final\*\*
 
-&nbsp; Final project focusing on file input/output and data processing.
+  Final project focusing on file input/output and data processing.
+
+
+
+\- \*\*Date\*\*
+
+&nbsp; Works with basic concepts of loops and switch-case.
+
+
+
+\- \*\*HalloweenActivities\*\*
+
+&nbsp; Two programs that calculate random numbers while keeping count of days and respecting restrictions; zombie apocalipse and witches flying away.
+
+
 
 
 
@@ -29,6 +43,4 @@ This repository contains multiple Java projects developed during my studies.
 \- Eclipse IDE
 
 \- Git \& GitHub
-
-
 
